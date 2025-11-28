@@ -65,7 +65,7 @@ I love building real-world projects, exploring modern technologies, and solving 
 
 - 🎓 **100% B.Tech CS Scholarship**, Sitare Foundation (2024–Present)  
 - 🎓 **Reliance Undergraduate Scholarship**, Reliance Foundation (2024–Present)  
-- 🥉 **3rd Rank in SRMU**, GeeksforGeeks (2025)  
+- 🥉 **1st Rank in SRMU**, GeeksforGeeks (2025)  
 - 🛡️ J.P. Morgan – Cybersecurity Job Simulation (2022)  
 - 🌐 Cisco – Introduction to Networks (2021)  
 - 🐍 Cisco – Programming Essentials in Python (2021)

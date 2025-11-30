@@ -45,14 +45,6 @@ I love building real-world projects, exploring modern technologies, and solving 
 
 ## 📂 Featured Projects
 
-### 🔹 **MediQ – Smart Healthcare Management System**
-**Tech:** ReactJS, NodeJS, ExpressJS, MongoDB  
-- Developed a full-stack healthcare platform enabling appointment booking, prescription uploads, and doctor–patient interaction.  
-- Designed secure REST APIs and built a responsive UI using React + Tailwind CSS.  
-- Ensured real-time updates and a mobile-friendly interface.
-
----
-
 ### 🔹 **WanderLust – Property Renting Platform (Airbnb Clone)**
 **Tech:** NodeJS, ExpressJS, MongoDB, HTML/CSS/JS  
 - Created user authentication, dynamic listing pages, and image uploads.  

@@ -122,6 +122,13 @@ I'm a **Full Stack Developer and Security Engineering enthusiast**, currently pu
 
 ---
 
+## ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 🐍 Contribution Snake
 
 <picture>

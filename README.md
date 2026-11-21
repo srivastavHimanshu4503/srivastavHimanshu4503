@@ -125,6 +125,11 @@ I'm a **Full Stack Developer and Security Engineering enthusiast**, currently pu
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#78](https://github.com/mayankrajray/MediEase/pull/78) in [mayankrajray/MediEase](https://github.com/mayankrajray/MediEase)
+2. ❗ Opened issue [#77](https://github.com/mayankrajray/MediEase/issues/77) in [mayankrajray/MediEase](https://github.com/mayankrajray/MediEase)
+3. 🔒 Closed issue [#75](https://github.com/mayankrajray/MediEase/issues/75) in [mayankrajray/MediEase](https://github.com/mayankrajray/MediEase)
+4. 🎉 Merged PR [#76](https://github.com/mayankrajray/MediEase/pull/76) in [mayankrajray/MediEase](https://github.com/mayankrajray/MediEase)
+5. 💪 Opened PR [#76](https://github.com/mayankrajray/MediEase/pull/76) in [mayankrajray/MediEase](https://github.com/mayankrajray/MediEase)
 <!--END_SECTION:activity-->
 
 ---

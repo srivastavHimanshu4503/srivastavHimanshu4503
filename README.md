@@ -122,6 +122,16 @@ I'm a **Full Stack Developer and Security Engineering enthusiast**, currently pu
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srivastavHimanshu4503/srivastavHimanshu4503/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srivastavHimanshu4503/srivastavHimanshu4503/output/snake-light.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/srivastavHimanshu4503/srivastavHimanshu4503/output/snake-dark.svg" alt="Contribution snake" />
+</picture>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">

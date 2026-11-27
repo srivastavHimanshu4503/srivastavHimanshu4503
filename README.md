@@ -125,11 +125,11 @@ I'm a **Full Stack Developer and Security Engineering enthusiast**, currently pu
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [QuizForge v1.0](https://github.com/srivastavHimanshu4503/QuizForge/releases/tag/v1) in [srivastavHimanshu4503/QuizForge](https://github.com/srivastavHimanshu4503/QuizForge)
-2. 💪 Opened PR [#78](https://github.com/mayankrajray/MediEase/pull/78) in [mayankrajray/MediEase](https://github.com/mayankrajray/MediEase)
-3. ❗ Opened issue [#77](https://github.com/mayankrajray/MediEase/issues/77) in [mayankrajray/MediEase](https://github.com/mayankrajray/MediEase)
-4. 🔒 Closed issue [#75](https://github.com/mayankrajray/MediEase/issues/75) in [mayankrajray/MediEase](https://github.com/mayankrajray/MediEase)
-5. 🎉 Merged PR [#76](https://github.com/mayankrajray/MediEase/pull/76) in [mayankrajray/MediEase](https://github.com/mayankrajray/MediEase)
+1. 💪 Opened PR [#87](https://github.com/mayankrajray/MediEase/pull/87) in [mayankrajray/MediEase](https://github.com/mayankrajray/MediEase)
+2. ❗ Opened issue [#86](https://github.com/mayankrajray/MediEase/issues/86) in [mayankrajray/MediEase](https://github.com/mayankrajray/MediEase)
+3. 🔒 Closed issue [#84](https://github.com/mayankrajray/MediEase/issues/84) in [mayankrajray/MediEase](https://github.com/mayankrajray/MediEase)
+4. 🎉 Merged PR [#85](https://github.com/mayankrajray/MediEase/pull/85) in [mayankrajray/MediEase](https://github.com/mayankrajray/MediEase)
+5. 💪 Opened PR [#85](https://github.com/mayankrajray/MediEase/pull/85) in [mayankrajray/MediEase](https://github.com/mayankrajray/MediEase)
 <!--END_SECTION:activity-->
 
 ---
